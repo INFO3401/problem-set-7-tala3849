@@ -28,6 +28,21 @@ def populateDatabase(databaseName, wordCounts, metaData):
     #         A metadata file containing a dictionary of data
     #         extracted from a supplemental file
     # Outputs: None
+    
+    #INSERT INTO <table> (<column 1>, <column 2>, ...)
+                #VALUES 
+                       # (<value 1>, <value 2>, ...),
+                       # (<value 1>, <value 2>, ...),
+                       # (<value 1>, <value 2>,...);
+                    
+                    
+    INSERT INTO <table> (<filename>,)
+                
+    
+    
+    # i am not sure how to code this 
+    
+    
     return 0
 
 # Test your code here
@@ -55,10 +70,6 @@ def computeLengthByParty(databaseName):
 
 
 
-
-########################################################################################################
-#Wednesday Work 
-########################################################################################################
 
 
 
