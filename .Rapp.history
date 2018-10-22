@@ -1,0 +1,37 @@
+read.csv(file=<titanic.csv>, head=<TRUE if there is a header, FALSE if there's not>, sep=",")
+read.csv(file=titanic.csv, head=<TRUE if there is a header, FALSE if there's not>, sep=",")
+read.csv(file= titanic.csv, head= TRUE if there is a header, FALSE if there's not, sep=",")
+read.csv(file= titanic.csv,TRUE, sep=",")
+wd
+wb
+wb()
+cd Documents/GitHub/problem-set-7-tala3849
+source("/Users/taylorlawrence/Documents/GitHub/problem-set-7-tala3849/R tutorial  (Autosaved).R")
+source("/Users/taylorlawrence/Documents/GitHub/problem-set-7-tala3849/R tutorial  (Autosaved).R")
+source("/Users/taylorlawrence/Documents/GitHub/problem-set-7-tala3849/R tutorial  (Autosaved).R")
+read.csv(file= "titanic.csv", head = TRUE , sep=",")
+titanic.csv <- 6
+titanic.csv
+print titanic.csv
+print "titanic.csv"
+read.csv(file= "titanic.csv", head = TRUE , sep=",")
+summary(titanic_data)
+summary(titanic.csv)
+titanic.csv <- titanic_data#
+titanic_data
+titanic.csv <- T
+T
+summary(T)
+T $ PassengerId
+names(T)
+name(titanic.csv)
+names(titanic.csv)
+table(T$PassengerId)
+read.csv(file= "titanic.csv", head = TRUE , sep=",")#
+#
+print(R)#
+summary(R)
+R = read.csv(file= "titanic.csv", head = TRUE , sep=",")#
+#
+print(R)#
+summary(R)
